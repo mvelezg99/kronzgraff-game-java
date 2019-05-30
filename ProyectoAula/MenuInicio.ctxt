@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MenuInicio
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MenuInicio\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ iniciarJuego()
+comment1.text=\r\n\ Requisito\ R01\:\ Iniciar\ juego\r\n
+comment2.params=
+comment2.target=void\ cargarPrimerMundo()
+comment2.text=\r\n\ Carga\ el\ primer\ mundo\ del\ juego\r\n
+comment3.params=
+comment3.target=boolean\ seDioClicEnIniciar()
+comment3.text=\r\n\ Verifica\ si\ se\ dio\ clic\ sobre\ el\ menu\ inicio\r\n\ \r\n\ @return\ TRUE\ si\ se\ dio\ clic,\ FALSE\ en\ caso\ contrario\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ MenuInicio\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=5

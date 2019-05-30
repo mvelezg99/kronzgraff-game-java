@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Instrucciones
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Instrucciones\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ abrirInstrucciones()
+comment1.text=\r\n\ Abre\ la\ pantalla\ de\ Instrucciones\ del\ juego\r\n\ \r\n\ pre\:\ Se\ debe\ haber\ dado\ clic\ en\ el\ bot\u00F3n\ Instrucciones\r\n
+comment2.params=
+comment2.target=void\ cargarPantallaInstrucciones()
+comment2.text=\r\n\ Carga\ la\ pantalla\ Instrucciones\r\n
+comment3.params=
+comment3.target=boolean\ seDioClicEnInstrucciones()
+comment3.text=\r\n\ Verifica\ si\ se\ dio\ clic\ sobre\ el\ bot\u00F3n\ Instrucciones\r\n\ \r\n\ @return\ TRUE\ si\ se\ dio\ clic,\ FALSE\ en\ caso\ contrario\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ MenuInicio\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=5

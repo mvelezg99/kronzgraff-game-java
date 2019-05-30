@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Graffiti1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Graffiti\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=boolean\ tienePersonajeAlCentro()
+comment1.text=\r\n\ Verifica\ si\ tiene\ un\ Actor\ en\ su\ centro\r\n\ \r\n\ @return\ TRUE\ si\ tiene\ alg\u00FAn\ actor\ en\ su\ centro,\ FALSE\ en\ caso\ contrario\r\n
+comment2.params=
+comment2.target=void\ pintarGraffiti()
+comment2.text=\r\n\ Pinta\ el\ graffiti\ del\ mundo\ cuando\ el\ Personaje\ llega\ al\ centro\r\n\ \r\n\ pre\:\ El\ personaje\ debe\ estar\ en\ el\ centro\ del\ graffiti\r\n
+comment3.params=
+comment3.target=void\ pasarMundo1()
+comment3.text=\r\n\ Pasa\ al\ mundo\ siguiente\r\n
+comment4.params=
+comment4.target=void\ esperar()
+comment4.text=\r\n\ Espera\ un\ momento\ para\ que\ se\ aprecie\ el\ graffiti\ pintado\ antes\ de\ pasar\ de\ mundo\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ Graffiti\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=6

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Mundo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mundo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Mundo()
+comment1.text=\r\n\ Crea\ las\ instancias\ de\ la\ clase\ Mundo\r\n\ \r\n
+comment2.params=
+comment2.target=void\ detenerSonidoDeFondo()
+comment2.text=\r\n\ Detiene\ el\ sonido\ de\ fondo\ de\ los\ mundos\r\n
+comment3.params=
+comment3.target=void\ inicializarSuelo()
+comment3.text=\r\n\ Inicializa\ los\ elementos\ que\ hacen\ parte\ del\ suelo\ y\ que\ aparecen\ en\ el\ borde\ inferior\ del\ mundo\r\n
+comment4.params=
+comment4.target=void\ reproducirSonidoDeFondo()
+comment4.text=\r\n\ Reproduce\ un\ sonido\ de\ fondo\r\n\ \r\n\ pre\:\ sonidoDeFondo\ debe\ ser\ diferente\ de\ null\r\n
+comment5.params=
+comment5.target=void\ inicializarObjetos()
+comment5.text=\r\n\ \ Inicializa\ los\ objetos\ que\ aparecer\u00E1n\ en\ el\ escenario\r\n
+comment6.params=
+comment6.target=void\ perderJuego()
+comment6.text=\r\n\ Se\ perder\u00E1\ el\ juego,\ mostrando\ una\ pantalla\ de\ "perdiste"\ \r\n\ deteniendo\ el\ sonido\ del\ Mundo\ actual\ y\ reproduciendo\ \r\n\ otro\ sonido\r\n
+comment7.params=
+comment7.target=void\ act()
+numComments=8
